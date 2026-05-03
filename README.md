@@ -64,7 +64,7 @@ The dataset contains information like:
 
 ## 🚀 How to Run the Project
 
-### 1️⃣ Clone the repository
+1️⃣ Clone the repository
 ```bash
 git clone https://github.com/your-username/credit-wise-ml.git
 
@@ -76,3 +76,18 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 4️⃣ Run the notebook
 jupyter notebook
+
+## 📊 Project Workflow
+
+This project follows a complete machine learning pipeline:
+
+1. Data Collection – Loaded loan dataset  
+2. Data Preprocessing – Handled missing values and encoded categorical data  
+3. Exploratory Data Analysis (EDA) – Analyzed patterns using visualizations  
+4. Feature Engineering – Selected important features  
+5. Train-Test Split – Divided dataset for training and testing  
+6. Model Building – Trained a machine learning model  
+7. Model Evaluation – Evaluated performance using accuracy  
+
+### 🎯 Result
+The model predicts whether a loan application will be approved based on applicant details.
