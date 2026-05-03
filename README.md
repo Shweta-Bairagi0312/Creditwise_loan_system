@@ -22,14 +22,18 @@ This project analyzes loan application data and builds a predictive model to det
 
 ---
 
+
+
 ## 📂 Project Structure
 
+```
 credit-wise-ml/
 │
-├── credit_wise.ipynb # Main Jupyter Notebook
+├── credit_wise.ipynb      # Main Jupyter Notebook
 ├── loan_approval_data.csv # Dataset
-├── README.md # Project Documentation
-└── .gitignore # Ignored files
+├── README.md              # Project Documentation
+
+```
 
 
 ---
